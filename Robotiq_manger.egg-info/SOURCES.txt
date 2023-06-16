@@ -1,0 +1,11 @@
+License.txt.txt
+README.md
+setup.py
+Robotiq_manger/GRipper_Controll_F.py
+Robotiq_manger/Manual_control.py
+Robotiq_manger/crc_math.py
+Robotiq_manger.egg-info/PKG-INFO
+Robotiq_manger.egg-info/SOURCES.txt
+Robotiq_manger.egg-info/dependency_links.txt
+Robotiq_manger.egg-info/requires.txt
+Robotiq_manger.egg-info/top_level.txt
