@@ -4,7 +4,8 @@
 
 # Discreption:
 
-- This package is created to make controlling Robotiq F2 85 Collabrtive gripper much easier.
+- This package is created to make controlling Robotiq F2 85 Collabrtive gripper much easier using python.
+- the gripper can be connected to PC using serial usb COM 
 
 
 ![bb0e4c86fdb1e8ebee6795cf452773880729b0fed8981fcc65e1a2a5789491bb](https://user-images.githubusercontent.com/47193436/158507415-9e6fc433-b7e2-41ea-8175-e110ea7451b3.png)
